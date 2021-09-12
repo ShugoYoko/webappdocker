@@ -45,3 +45,5 @@ stages:
         WebAppName: 'yoko2691devops'
         DockerNamespace: 'yokotestcontainer.azurecr.io'
         DockerRepository: 'shugoyokowebappdocker'
+        deployToSlotOrASE: true
+        SlotName: deploy
