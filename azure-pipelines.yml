@@ -46,4 +46,5 @@ stages:
         DockerNamespace: 'yokotestcontainer.azurecr.io'
         DockerRepository: 'shugoyokowebappdocker'
         deployToSlotOrASE: true
+        ResourceGroupName: '2691-res'
         SlotName: deploy
